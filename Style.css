@@ -1,20 +1,22 @@
 .card {
+    background-color: white;
+    width: 25rem;
+    height: 38rem;
+    border-radius: 1rem;
     position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+
 }
 
 body {
     background-color: hsl(212, 45%, 89%);
     font-size: 5px;
+
 }
 
-
-section {
-    background-color: white;
-    width: 25rem;
-    height: 38rem;
-    border-radius: 1rem;
-    margin: 60rem;
-}
 
 img {
     width: 22.5rem;

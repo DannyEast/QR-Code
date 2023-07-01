@@ -1,0 +1,44 @@
+.card {
+    position: absolute;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 5px;
+}
+
+
+section {
+    background-color: white;
+    width: 25rem;
+    height: 38rem;
+    border-radius: 1rem;
+    margin: 60rem;
+}
+
+img {
+    width: 22.5rem;
+    height: 22.5rem;
+    margin-left: 1.25rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+}
+
+.text1 {
+    margin: 1rem;
+    font-weight: 900;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.text2 {
+    font-size: 16px;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    width: 265px;
+    text-align: center;
+    margin-left: 65px;
+    margin-top: 25px;
+}
